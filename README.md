@@ -10,7 +10,7 @@
 [![Docs](https://img.shields.io/badge/Docs-Read%20Now-1A1A2E?style=for-the-badge)](https://pyp.stanl.ink/docs)
 [![Marketplace](https://img.shields.io/badge/Marketplace-Browse-2ECC71?style=for-the-badge)](https://pyp.stanl.ink/marketplace)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nB5nzpCpP)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache2.0-yellow?style=for-the-badge)](LICENSE)
 
 </div>
 
