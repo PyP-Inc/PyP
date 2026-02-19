@@ -161,23 +161,26 @@ Every marketplace listing shows PPE-verified performance across multiple pairs. 
 
 ---
 
-## Architecture
+## Built Different
 
-PyP is built on a modern, high-performance stack:
+| | PyP | Traditional Platforms |
+|--|-----|----------------------|
+| **Strategy Logic** | Human-readable pypscript | Complex proprietary scripting |
+| **AI Training** | Proprietary ML pipeline | None — just backtesting |
+| **Performance Proof** | Server-verified PPE results | Self-reported backtests |
+| **Signal Delivery** | Telegram, Discord, WhatsApp, Web | Limited or none |
+| **Marketplace** | Verified performance metrics | Unverified |
+| **Private Strategy Protection** | Strategies never leave our servers | Client-side exposure |
 
-```
-Frontend          React + Lightweight Charts (TradingView)
-Signal Delivery   Cloudflare Workers (Signal Dispatcher)
-PPE Engine        Rust → WASM running in Cloudflare Durable Objects
-Compiler          Rust (pypscript → IR → training pipeline)
-Storage           Cloudflare R2 (OHCLV data + .pyp files)
-Database          Cloudflare D1 (users, subscriptions, preferences)
-```
+⚡ **Real-time** — signals delivered the moment the brain detects a pattern match
 
-- **PPE sessions** are isolated Durable Objects — one per simulation run
-- **`.pyp` files** never leave the server for paid/private strategies
-- **OHCLV data** is streamed from R2 in chunks — memory efficient at scale
-- **Signals** are stateless — dispatched per event, no session overhead
+🔒 **Secure** — paid and private `.pyp` files are processed server-side only, never exposed to the client
+
+📊 **Verified** — PPE simulations run server-side and are tamper-proof. What you see on a marketplace listing is what you get
+
+🌍 **Scalable** — built to handle thousands of concurrent PPE sessions and signal deliveries without degradation
+
+🧠 **Explainable** — every signal carries a confidence score, pair, timeframe, and direction. No black box outputs
 
 ---
 
