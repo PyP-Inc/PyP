@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://pyp.stanl.ink/logo.png" alt="PyP Logo" width="120" />
-
-# PyP
+<img src="https://cloud.stanlink.online/pyp/brand/images/icons-and-logos/pyp-logo-approx-16x9.png" alt="PyP" width="320" />
 
 **Build Trading Strategies That Actually Work.**
 
@@ -11,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-pyp.stanl.ink-FF6B35?style=for-the-badge)](https://pyp.stanl.ink)
 [![Docs](https://img.shields.io/badge/Docs-Read%20Now-1A1A2E?style=for-the-badge)](https://pyp.stanl.ink/docs)
 [![Marketplace](https://img.shields.io/badge/Marketplace-Browse-2ECC71?style=for-the-badge)](https://pyp.stanl.ink/marketplace)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pyp)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nB5nzpCpP)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 </div>
@@ -203,7 +201,14 @@ Strategies, signals, and performance metrics on PyP are **for informational purp
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pyp)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nB5nzpCpP)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Cq7lteaz0hRmNzQ0)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pyp.traders?igsh=NTV5amszOWt6bXhx)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61588587560516)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/79pJK4aNM)
+
+---
+
 [![Platform](https://img.shields.io/badge/Get%20Started%20Free-FF6B35?style=for-the-badge)](https://pyp.stanl.ink)
 [![Docs](https://img.shields.io/badge/Read%20the%20Docs-1A1A2E?style=for-the-badge)](https://pyp.stanl.ink/docs)
 [![Marketplace](https://img.shields.io/badge/Browse%20Marketplace-2ECC71?style=for-the-badge)](https://pyp.stanl.ink/marketplace)
